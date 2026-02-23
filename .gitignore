@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+plates_detected/
+.vscode/
+Thumbs.db
+.DS_Store
